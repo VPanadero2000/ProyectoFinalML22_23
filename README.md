@@ -8,3 +8,5 @@ En segundo lugar, presentamos los archivos que sí están subidos:
   - El segundo archivo que presentamos es un .ipynb (Proyecto Final ML - Preprocessing.ipynb). Este archivo es un script que contiene la primera parte del proyecto: el preprocessing.
   - El tercer archivo que presentamos es otro .ipynb (Proyecto Final ML - Modelos.ipynb). Este archivo fue creado para superar los problemas de memoria que nos surgieron y en el se implementan los diferentes modelos a partir de la carga de los datos preprocesados recogidos en preprocesado.csv.
   - Por último, encontramos otros dos scripts en formato .ipynb (SlidesPreprocessing y SlidesModelos). Son básicamente los dos .ipynb previos, pero preparados ahora para realizar una presentación en slides de Jupyter Notebook. Se han creado para no "ensuciar" los dos scripts previos y serán únicamente necesarios en caso de terner que defender el proyecto. 
+
+Por: Sofía Canela García-Arias, Berta Corriols Barrio y Víctor Panadero Gómez
